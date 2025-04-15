@@ -8,6 +8,10 @@ Tipo long: precisa ser definido com um l (minúsculo ou maiúsculo) no final do 
 
 Exemplo: `long cpf = 98765432109L;`
 
+Constantes: São variáveis que nunca mudam de valor e têm por convenção todo seu nome em caixa alta.
+
+Exemplo: `final double VALOR_DE_PI = 3.14;`
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
