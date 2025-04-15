@@ -12,6 +12,10 @@ Constantes: São variáveis que nunca mudam de valor e têm por convenção todo
 
 Exemplo: `final double VALOR_DE_PI = 3.14;`
 
+### Operadores
+
+    A menos que hajam parênteses isolando uma operação matemática que será atribuída a uma variável String, caso haja alguma String entre uma soma entre dois ou mais números, o resultado sempre será apresentado como uma concatenação de strings.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
