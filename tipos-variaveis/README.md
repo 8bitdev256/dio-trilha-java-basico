@@ -1,3 +1,13 @@
+## Anotações
+
+Tipo float: precisa ser definido com um f (minúsculo ou maiúsculo) no final do valor atribuido à variável.
+
+Exemplo: `float pi = 3.14F;`
+
+Tipo long: precisa ser definido com um l (minúsculo ou maiúsculo) no final do valor atribuido à variável.
+
+Exemplo: `long cpf = 98765432109L;`
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
