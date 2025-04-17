@@ -16,6 +16,16 @@ Exemplo: `final double VALOR_DE_PI = 3.14;`
 
     A menos que hajam parênteses isolando uma operação matemática que será atribuída a uma variável String, caso haja alguma String entre uma soma entre dois ou mais números, o resultado sempre será apresentado como uma concatenação de strings.
 
+### Métodos
+
+ - Devem ser nomeados como verbos (infinitivo);
+ 
+ - Utilizar camelCase para nomenclatura (primeira palavra com inicial minúscula);
+
+ - Devem possuir uma única responsabilidade;
+
+ - Em Java, não existem métodos globais.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
