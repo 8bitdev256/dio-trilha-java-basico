@@ -4,6 +4,12 @@
 
 `javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java`
 
+### Executar programa Java via terminal
+
+ - Localizar arquivo .class na pasta bin do seu projeto
+ - Acessar este caminho da pasta pelo terminal ou cmd ou powershell
+ - Supondo que sua classe se chame `MinhaClasse.java`, rodar comando `java MinhaClasse` no terminal. Não se deve informar a extensão `.class` ao rodar comando
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
